@@ -42,14 +42,19 @@ main {
 .post-title {
 }
 .author {
+  font-size: 13px;
 }
 .date {
+  font-size: 13px;
 }
 time {
+  font-size: 13px;
 }
 footer {
+  font-size: 13px;
 }
 .tags {
+  font-size: 13px;
 }
 .post,
 .listing {
