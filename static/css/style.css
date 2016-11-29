@@ -3,11 +3,11 @@ html {
   zoom: 1;
   background-color: white;
   font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+  font-size: 21px;
 }
 body {
 }
 article {
-    font-size: 21px;
 }
 blockquote {
     font-style: italic;
