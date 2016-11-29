@@ -1,6 +1,6 @@
 *,
 html {
-    background-color: white;
+    background-color: #fafafa;
     font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
     font-size: 21px;
 }
@@ -28,27 +28,23 @@ html a:visited {
 
 blockquote {
     font-style: italic;
-    padding: 10px 20px;
+    padding: 0px 20px;
     margin: 0 0 20px;
     border-left: 5px solid #eee;
-    background-color: #fafafa;
 }
 
 main {
     margin-top: 100px;
-    background-color: #fafafa;
 }
 
 .flex-container {
     display: flex;
     width: 100%;
     justify-content: center;
-    background-color: #fafafa;
 }
 
 article {
     margin-top: 30px;
-    background-color: #fafafa;
 }
 
 footer {
@@ -66,7 +62,6 @@ body h2 {
     line-height: 1.04;
     letter-spacing: -.028em;
     font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
-    background-color: #fafafa;
 }
 
 .post-title {
@@ -90,7 +85,6 @@ footer {
 .listing {
     width: 90%;
     max-width: 800px;
-    background-color: #fafafa;
 }
 a.list-group-item {
   border: 0;
