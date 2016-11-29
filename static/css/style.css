@@ -31,7 +31,11 @@ pre {
 }
 h2 {
   margin-bottom: 3px;
-  color: #555;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.04;
+  letter-spacing: -0.28em;
+  font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif
 }
 main {
 }
