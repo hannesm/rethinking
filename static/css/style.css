@@ -34,6 +34,7 @@ body h2 {
   font-weight: 700;
   font-size: 40px;
   line-height: 1.04;
+  letter-spacing: -.028em;
   font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif
 }
 main {
