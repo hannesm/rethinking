@@ -26,11 +26,6 @@ html a:visited {
     z-index: 1030;
 }
 
-body {
-}
-article {
-    background-color: #fafafa;
-}
 blockquote {
     font-style: italic;
     padding: 10px 20px;
@@ -38,26 +33,32 @@ blockquote {
     border-left: 5px solid #eee;
     background-color: #fafafa;
 }
+
 main {
     margin-top: 100px;
     background-color: #fafafa;
 }
+
 .flex-container {
     display: flex;
     width: 100%;
     justify-content: center;
     background-color: #fafafa;
 }
+
 article {
     margin-top: 30px;
     background-color: #fafafa;
 }
+
 footer {
     margin-top: 20px;
 }
+
 pre {
     padding: 0px;
 }
+
 body h2 {
     margin-bottom: 3px;
     font-weight: 700;
