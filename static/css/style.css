@@ -93,6 +93,10 @@ a.list-group-item {
     clear:both;
 }
 
+.navbar-default li {
+    list-style-type: none;
+}
+
 .navbar-toggle .icon-bar {
 }
 .navbar-default .navbar-brand {
