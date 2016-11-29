@@ -53,7 +53,7 @@ time {
 footer {
   font-size: 13px;
 }
-tags {
+.tags {
   font-size: 13px;
 }
 .post,
@@ -67,7 +67,8 @@ a.list-group-item {
 .extract {
   margin-top: 10px;
 }
-.tag {
+#tag {
+  font-size: 13px;
   margin-right: 4px;
 }
 .navbar {
