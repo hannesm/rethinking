@@ -3,7 +3,6 @@ html {
   zoom: 1;
 }
 body {
-    background: #fff;
     font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
 }
 article {
@@ -42,19 +41,14 @@ main {
 .post-title {
 }
 .author {
-  color: #555;
 }
 .date {
-  color: #666;
 }
 time {
-  color: #666;
 }
 footer {
-  color: #777;
 }
 .tags {
-  color: #666;
 }
 .post,
 .listing {
