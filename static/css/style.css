@@ -10,6 +10,14 @@ html a {
     text-decoration: none;
 }
 
+.navbar {
+    box-sizing: border-box;
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,.15);
+    width: 800px;
+    margin: 0 auto;
+    position: fixed;right: 0;left: 0;z-index: 1030;
+}
+
 body {
 }
 article {
