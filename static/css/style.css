@@ -2,9 +2,9 @@
 html {
   zoom: 1;
   background-color: white;
+  font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
 }
 body {
-    font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
 }
 article {
     font-size: 21px;
