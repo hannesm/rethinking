@@ -91,16 +91,12 @@ a.list-group-item {
 
 .navbar-nav {
     clear:both;
+    left-margin: 0px;
+    left-padding: 0px;
 }
 
-.navbar-default ul {
-    left-margin: 0px;
-    left-padding: 0px;
-}
 .navbar-default li {
     list-style-type: none;
-    left-margin: 0px;
-    left-padding: 0px;
 }
 
 .navbar-toggle .icon-bar {
