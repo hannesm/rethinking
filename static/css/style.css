@@ -87,8 +87,9 @@ footer {
 }
 .post,
 .listing {
-  width: 90%;
-  max-width: 800px;
+    width: 90%;
+    max-width: 800px;
+    background-color: #fafafa;
 }
 a.list-group-item {
   border: 0;
