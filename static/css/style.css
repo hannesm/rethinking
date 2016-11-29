@@ -76,6 +76,10 @@ a.list-group-item {
     width: 800px;
     margin: 0 auto;
 }
+.container {
+    width: 800px;
+}
+
 .navbar-toggle .icon-bar {
 }
 .navbar-default .navbar-brand {
