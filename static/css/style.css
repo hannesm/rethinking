@@ -6,6 +6,9 @@ body {
     background: #fff;
     font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
 }
+article {
+    font-size: 21px;
+}
 blockquote {
     font-style: italic;
 }
