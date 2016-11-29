@@ -27,7 +27,6 @@ html a:visited {
 .container {
     margin: 0 auto;
     max-width: 800px;
-    background-color: white;
 }
 
 blockquote {
@@ -112,6 +111,8 @@ a.list-group-item {
 
 .navbar-default li {
     list-style-type: none;
+    font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+    font-size: 21px;
 }
 
 .navbar-header {
