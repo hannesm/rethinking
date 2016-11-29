@@ -29,40 +29,45 @@ html a:visited {
 body {
 }
 article {
+    background-color: #fafafa;
 }
 blockquote {
     font-style: italic;
     padding: 10px 20px;
     margin: 0 0 20px;
     border-left: 5px solid #eee;
+    background-color: #fafafa;
 }
 main {
-  margin-top: 100px;
+    margin-top: 100px;
+    background-color: #fafafa;
 }
 .flex-container {
-  display: flex;
-  width: 100%;
-  justify-content: center;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    background-color: #fafafa;
 }
 article {
-  margin-top: 30px;
+    margin-top: 30px;
+    background-color: #fafafa;
 }
 footer {
-  margin-top: 20px;
+    margin-top: 20px;
 }
 pre {
-  padding: 0px;
+    padding: 0px;
 }
 body h2 {
-  margin-bottom: 3px;
-  font-weight: 700;
-  font-size: 40px;
-  line-height: 1.04;
-  letter-spacing: -.028em;
-  font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif
+    margin-bottom: 3px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.04;
+    letter-spacing: -.028em;
+    font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+    background-color: #fafafa;
 }
-main {
-}
+
 .post-title {
 }
 .author {
