@@ -105,14 +105,15 @@ a.list-group-item {
     padding-left: 0px;
     font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
     font-size: 15px;
-    padding: 10px 20px 18px 0;
+    padding: 0 0 0 0;
 }
 
 .navbar-default li {
     list-style-type: none;
 }
 
-.navbar-toggle .icon-bar {
+.navbar-default {
+    padding: 10px 20px 18px 0;
 }
 
 .navbar-header {
