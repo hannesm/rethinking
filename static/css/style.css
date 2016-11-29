@@ -1,13 +1,17 @@
 *,
 html {
-  zoom: 1;
-  background-color: white;
-  font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
-  font-size: 21px;
+    background-color: white;
+    font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+    font-size: 21px;
 }
 
 html a {
     text-decoration: none;
+    color: black
+}
+
+html a:visited {
+    color: black
 }
 
 .navbar {
