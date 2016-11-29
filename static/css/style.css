@@ -85,6 +85,9 @@ a.list-group-item {
     clear:both;
 }
 
+.nacbar-default .navbar-header {
+    font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
+}
 
 .navbar-toggle .icon-bar {
 }
