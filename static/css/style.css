@@ -113,12 +113,13 @@ a.list-group-item {
 }
 
 .navbar-header {
-    background-color: lightblue
+    background-color: yellow
 }
 .navbar-brand {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     font-size: 40px;
+    background-color: yellow
 }
 
 .navbar-default .navbar-brand:hover,
