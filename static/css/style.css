@@ -3,7 +3,11 @@ html {
   zoom: 1;
 }
 body {
-  background: #fff;
+    background: #fff;
+    font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+}
+blockquote {
+    font-style: italic;
 }
 main {
   margin-top: 60px;
@@ -27,45 +31,34 @@ h2 {
   color: #555;
 }
 main {
-  font-size: 0.95em;
 }
 .post-title {
-  font-size: 1.2em;
 }
 .author {
-  font-size: 0.8em;
   color: #555;
 }
 .date {
-  font-size: 0.7em;
   color: #666;
 }
 time {
-  font-size: 0.7em;
   color: #666;
 }
 footer {
-  font-size: 0.7em;
   color: #777;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .tags {
   color: #666;
-  font-size: 0.8em;
 }
 .post,
 .listing {
   width: 90%;
   max-width: 800px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1.2em;
 }
 a.list-group-item {
   border: 0;
 }
 .extract {
   margin-top: 10px;
-  font-size: 0.9em;
 }
 .tag {
   margin-right: 4px;
