@@ -111,8 +111,14 @@ a.list-group-item {
 
 .navbar-toggle .icon-bar {
 }
+
+.navbar-header {
+    background-color: lightblue
+}
 .navbar-brand {
-    font-family: "Garamond",serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 40px;
 }
 
 .navbar-default .navbar-brand:hover,
