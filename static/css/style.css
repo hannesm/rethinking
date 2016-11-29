@@ -103,6 +103,8 @@ a.list-group-item {
     clear:both;
     margin-left: 0px;
     padding-left: 0px;
+    font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+    font-size: 15px
 }
 
 .navbar-default li {
