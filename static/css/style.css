@@ -89,9 +89,13 @@ a.list-group-item {
 }
 .navbar-default .navbar-brand {
 }
+
+.navbar-default .navbar-brand a {
+    font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
+}
+
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-    font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
 }
 .navbar-default .navbar-nav > li > a {
 }
