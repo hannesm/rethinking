@@ -1,0 +1,45 @@
+---
+title: What is this? Why are we writing?
+author: linse, hannes
+tags:
+abstract: ![cat](/static/grumpy-preview.jpg)
+---
+
+![cat](/static/grumpy-cat.jpg)
+
+Opinions may differ, but we think that the world of computers is in a dire
+situation right now.  People are focussing their innovative minds on the next
+new app, the next layer, the next container.  And then there are the good old
+updates such as the next Apple event, the next Google IO, new phone operating
+system or hardware, big corporation releasing next big thing.  Frontend
+developers are kept busy learning the next JavaScript framework instead of
+focusing on applying the basics in practice, on refactoring, and on the user.
+Self-acclaimed thought leaders are trying to find unicorns, funding, and copy
+each others ideas.
+
+We think there are more interesting problems to solve, and to get ready for
+them, we want to rethink what we already have.
+
+How does a computer work?  Is it really a new idea if I move an existing idea
+across an abstraction layer?  What is an abstraction?  How does caching work?
+Why are containers cool?  What makes a buzzword and what makes a good concept?
+What can we learn from the 70s?  Does computer science actually exist?  Is each
+layer of a computer system destined to be another fallen empire and extinct
+civilisation?
+
+We are curious to explore questions like these, and build a solid foundation of
+knowledge around computers that is accessible for everyone.
+
+Why are we doing this?  First of all, we find this super exciting.  And we think
+it is time to do this, and the time is now.  If no one spends the time to
+reflect where we are steering towards, we will end up in an attention grabbing
+inhuman algorithm-dominated world.  It's us who make the decisions, because it
+is our work.  But we need time, space, and knowledge to discuss this future.
+
+And we need you!  This is a big idea, and we need everyone with their questions,
+answers, knowledge, and feedback.  We promise to collect and curate as much
+information as we can and make it readable for everyone.  We hope to be a good
+resource of knowledge and we also hope to provide an independent platform for
+discussion without any dependency on any corporation or on your profile as it is
+known in the Internet.  Believe in something, stand for something, fall for
+nothing.
