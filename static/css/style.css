@@ -109,6 +109,9 @@ a.list-group-item {
     padding: 0 0 0 0;
 }
 
+.navbar-default a, .navbar-default a:visited {
+    color: #777;
+}
 .navbar-default li {
     list-style-type: none;
     font-family: medium-content-sans-serif-font,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
